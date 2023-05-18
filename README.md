@@ -3,6 +3,13 @@
 A command line interface for getting random quotes from [Kanye West](https://en.wikipedia.org/wiki/Kanye_West).
 Written in Rust, with the kanye.rest api. 
 
+### example
+
+```shell
+$ ye                                 ~
+People only get jealous when they care.
+```
+
 ## installing
 
 ### nix
